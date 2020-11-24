@@ -27,18 +27,6 @@
 <mavenArchiverVersion>2.4.1</mavenArchiverVersion>
 </properties>
 <dependencies>
- <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-war-plugin -->
-<dependency>
-    <groupId>https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-war-plugin/3.3.1</groupId>
-    <artifactId>maven-war-plugin</artifactId>
-    <version>3.3.1</version>
-</dependency>
- <dependency>
-  <groupId>org.apache.maven.plugins</groupId>
-  <artifactId>maven-war-plugin</artifactId>
-  <version>3.3.1</version>
-  <type>maven-plugin</type>
-</dependency>
 <dependency>
 <groupId>org.apache.maven</groupId>
 <artifactId>maven-plugin-api</artifactId>
